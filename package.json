@@ -1,0 +1,30 @@
+{
+  "name": "shopify1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UdayasankarT/shopify.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/UdayasankarT/shopify/issues"
+  },
+  "homepage": "https://github.com/UdayasankarT/shopify#readme",
+  "dependencies": {
+    "next": "^10.1.3",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "webpack": "^5.33.2"
+  },
+  "devDependencies": {},
+  "description": ""
+}
